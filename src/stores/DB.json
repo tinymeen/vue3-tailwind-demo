@@ -1,0 +1,495 @@
+{
+  "userList": [
+    {
+      "id": 1,
+      "name": "Bruce Wayne",
+      "email": "bruce@gmail.com",
+      "avatar": "/batman.jpg",
+      "password": "password"
+    },
+    {
+      "id": 2,
+      "name": "Clark Kent",
+      "email": "ck@gmail.com",
+      "avatar": "/ck.jpeg",
+      "password": "password"
+    },
+    {
+      "id": 3,
+      "name": "Diana Prince",
+      "email": "diana@gmail.com",
+      "avatar": "/diana.jpg",
+      "password": "password"
+    }
+  ],
+  "campaigns": [
+    {
+      "name": "SW Zero Personalization",
+      "status": "Sent on 15th Apr 2023 | 3 Sequences",
+      "condition": "positive",
+      "engagement": 30,
+      "isChecked": false,
+      "sent": {
+        "total": 520
+      },
+      "clicked": {
+        "total": 39,
+        "percent": "19%"
+      },
+      "opened": {
+        "total": 202,
+        "percent": "49%"
+      },
+      "replied": {
+        "total": 2,
+        "percent": "12%"
+      },
+      "positive_reply": {
+        "total": 2,
+        "percent": "12%"
+      }
+    },
+    {
+      "name": "SW Zero Personalization 11",
+      "status": "Sent on 17th Apr 2023 | 2 Sequences",
+      "condition": "negative",
+      "engagement": 10,
+      "isChecked": false,
+      "sent": {
+        "total": 330
+      },
+      "clicked": {
+        "total": 39,
+        "percent": "19%"
+      },
+      "opened": {
+        "total": 202,
+        "percent": "49%"
+      },
+      "replied": {
+        "total": 2,
+        "percent": "12%"
+      },
+      "positive_reply": {
+        "total": 2,
+        "percent": "12%"
+      }
+    },
+    {
+      "name": "Untitled Campaign",
+      "status": "Drafted on 13th Apr 2023 | 2 Sequences",
+      "condition": "warning",
+      "engagement": 0,
+      "isChecked": false,
+      "sent": {
+        "total": 0
+      },
+      "clicked": {
+        "total": 0,
+        "percent": "0.0%"
+      },
+      "opened": {
+        "total": 0,
+        "percent": "0.0%"
+      },
+      "replied": {
+        "total": 0,
+        "percent": "0.0%"
+      },
+      "positive_reply": {
+        "total": 0,
+        "percent": "0.0%"
+      }
+    },
+    {
+      "name": "SW Zero Personalization",
+      "status": "Sent on 15th Apr 2023 | 3 Sequences",
+      "condition": "positive",
+      "engagement": 30,
+      "isChecked": false,
+      "sent": {
+        "total": 520
+      },
+      "clicked": {
+        "total": 39,
+        "percent": "19%"
+      },
+      "opened": {
+        "total": 202,
+        "percent": "49%"
+      },
+      "replied": {
+        "total": 2,
+        "percent": "12%"
+      },
+      "positive_reply": {
+        "total": 2,
+        "percent": "12%"
+      }
+    },
+    {
+      "name": "SW Zero Personalization 11",
+      "status": "Sent on 17th Apr 2023 | 2 Sequences",
+      "condition": "negative",
+      "engagement": 10,
+      "isChecked": false,
+      "sent": {
+        "total": 330
+      },
+      "clicked": {
+        "total": 39,
+        "percent": "19%"
+      },
+      "opened": {
+        "total": 202,
+        "percent": "49%"
+      },
+      "replied": {
+        "total": 2,
+        "percent": "12%"
+      },
+      "positive_reply": {
+        "total": 2,
+        "percent": "12%"
+      }
+    },
+    {
+      "name": "Untitled Campaign",
+      "status": "Drafted on 13th Apr 2023 | 2 Sequences",
+      "condition": "warning",
+      "engagement": 0,
+      "isChecked": false,
+      "sent": {
+        "total": 0
+      },
+      "clicked": {
+        "total": 0,
+        "percent": "0.0%"
+      },
+      "opened": {
+        "total": 0,
+        "percent": "0.0%"
+      },
+      "replied": {
+        "total": 0,
+        "percent": "0.0%"
+      },
+      "positive_reply": {
+        "total": 0,
+        "percent": "0.0%"
+      }
+    },
+    {
+      "name": "SW Zero Personalization",
+      "status": "Sent on 15th Apr 2023 | 3 Sequences",
+      "condition": "positive",
+      "engagement": 30,
+      "isChecked": false,
+      "sent": {
+        "total": 520
+      },
+      "clicked": {
+        "total": 39,
+        "percent": "19%"
+      },
+      "opened": {
+        "total": 202,
+        "percent": "49%"
+      },
+      "replied": {
+        "total": 2,
+        "percent": "12%"
+      },
+      "positive_reply": {
+        "total": 2,
+        "percent": "12%"
+      }
+    },
+    {
+      "name": "SW Zero Personalization 11",
+      "status": "Sent on 17th Apr 2023 | 2 Sequences",
+      "condition": "negative",
+      "engagement": 10,
+      "isChecked": false,
+      "sent": {
+        "total": 330
+      },
+      "clicked": {
+        "total": 39,
+        "percent": "19%"
+      },
+      "opened": {
+        "total": 202,
+        "percent": "49%"
+      },
+      "replied": {
+        "total": 2,
+        "percent": "12%"
+      },
+      "positive_reply": {
+        "total": 2,
+        "percent": "12%"
+      }
+    },
+    {
+      "name": "Untitled Campaign",
+      "status": "Drafted on 13th Apr 2023 | 2 Sequences",
+      "condition": "warning",
+      "engagement": 0,
+      "isChecked": false,
+      "sent": {
+        "total": 0
+      },
+      "clicked": {
+        "total": 0,
+        "percent": "0.0%"
+      },
+      "opened": {
+        "total": 0,
+        "percent": "0.0%"
+      },
+      "replied": {
+        "total": 0,
+        "percent": "0.0%"
+      },
+      "positive_reply": {
+        "total": 0,
+        "percent": "0.0%"
+      }
+    },
+    {
+      "name": "SW Zero Personalization",
+      "status": "Sent on 15th Apr 2023 | 3 Sequences",
+      "condition": "positive",
+      "engagement": 30,
+      "isChecked": false,
+      "sent": {
+        "total": 520
+      },
+      "clicked": {
+        "total": 39,
+        "percent": "19%"
+      },
+      "opened": {
+        "total": 202,
+        "percent": "49%"
+      },
+      "replied": {
+        "total": 2,
+        "percent": "12%"
+      },
+      "positive_reply": {
+        "total": 2,
+        "percent": "12%"
+      }
+    },
+    {
+      "name": "SW Zero Personalization 11",
+      "status": "Sent on 17th Apr 2023 | 2 Sequences",
+      "condition": "negative",
+      "engagement": 10,
+      "isChecked": false,
+      "sent": {
+        "total": 330
+      },
+      "clicked": {
+        "total": 39,
+        "percent": "19%"
+      },
+      "opened": {
+        "total": 202,
+        "percent": "49%"
+      },
+      "replied": {
+        "total": 2,
+        "percent": "12%"
+      },
+      "positive_reply": {
+        "total": 2,
+        "percent": "12%"
+      }
+    },
+    {
+      "name": "Untitled Campaign",
+      "status": "Drafted on 13th Apr 2023 | 2 Sequences",
+      "condition": "warning",
+      "engagement": 0,
+      "isChecked": false,
+      "sent": {
+        "total": 0
+      },
+      "clicked": {
+        "total": 0,
+        "percent": "0.0%"
+      },
+      "opened": {
+        "total": 0,
+        "percent": "0.0%"
+      },
+      "replied": {
+        "total": 0,
+        "percent": "0.0%"
+      },
+      "positive_reply": {
+        "total": 0,
+        "percent": "0.0%"
+      }
+    },
+    {
+      "name": "SW Zero Personalization",
+      "status": "Sent on 15th Apr 2023 | 3 Sequences",
+      "condition": "positive",
+      "engagement": 30,
+      "isChecked": false,
+      "sent": {
+        "total": 520
+      },
+      "clicked": {
+        "total": 39,
+        "percent": "19%"
+      },
+      "opened": {
+        "total": 202,
+        "percent": "49%"
+      },
+      "replied": {
+        "total": 2,
+        "percent": "12%"
+      },
+      "positive_reply": {
+        "total": 2,
+        "percent": "12%"
+      }
+    },
+    {
+      "name": "SW Zero Personalization 11",
+      "status": "Sent on 17th Apr 2023 | 2 Sequences",
+      "condition": "negative",
+      "engagement": 10,
+      "isChecked": false,
+      "sent": {
+        "total": 330
+      },
+      "clicked": {
+        "total": 39,
+        "percent": "19%"
+      },
+      "opened": {
+        "total": 202,
+        "percent": "49%"
+      },
+      "replied": {
+        "total": 2,
+        "percent": "12%"
+      },
+      "positive_reply": {
+        "total": 2,
+        "percent": "12%"
+      }
+    },
+    {
+      "name": "Untitled Campaign",
+      "status": "Drafted on 13th Apr 2023 | 2 Sequences",
+      "condition": "warning",
+      "engagement": 0,
+      "isChecked": false,
+      "sent": {
+        "total": 0
+      },
+      "clicked": {
+        "total": 0,
+        "percent": "0.0%"
+      },
+      "opened": {
+        "total": 0,
+        "percent": "0.0%"
+      },
+      "replied": {
+        "total": 0,
+        "percent": "0.0%"
+      },
+      "positive_reply": {
+        "total": 0,
+        "percent": "0.0%"
+      }
+    },
+    {
+      "name": "SW Zero Personalization",
+      "status": "Sent on 15th Apr 2023 | 3 Sequences",
+      "condition": "positive",
+      "engagement": 30,
+      "isChecked": false,
+      "sent": {
+        "total": 520
+      },
+      "clicked": {
+        "total": 39,
+        "percent": "19%"
+      },
+      "opened": {
+        "total": 202,
+        "percent": "49%"
+      },
+      "replied": {
+        "total": 2,
+        "percent": "12%"
+      },
+      "positive_reply": {
+        "total": 2,
+        "percent": "12%"
+      }
+    },
+    {
+      "name": "SW Zero Personalization 11",
+      "status": "Sent on 17th Apr 2023 | 2 Sequences",
+      "condition": "negative",
+      "engagement": 10,
+      "isChecked": false,
+      "sent": {
+        "total": 330
+      },
+      "clicked": {
+        "total": 39,
+        "percent": "19%"
+      },
+      "opened": {
+        "total": 202,
+        "percent": "49%"
+      },
+      "replied": {
+        "total": 2,
+        "percent": "12%"
+      },
+      "positive_reply": {
+        "total": 2,
+        "percent": "12%"
+      }
+    },
+    {
+      "name": "Untitled Campaign",
+      "status": "Drafted on 13th Apr 2023 | 2 Sequences",
+      "condition": "warning",
+      "engagement": 0,
+      "isChecked": false,
+      "sent": {
+        "total": 0
+      },
+      "clicked": {
+        "total": 0,
+        "percent": "0.0%"
+      },
+      "opened": {
+        "total": 0,
+        "percent": "0.0%"
+      },
+      "replied": {
+        "total": 0,
+        "percent": "0.0%"
+      },
+      "positive_reply": {
+        "total": 0,
+        "percent": "0.0%"
+      }
+    }
+  ]
+}
